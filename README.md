@@ -42,7 +42,7 @@ Chỉnh sửa
 git clone <URL_GITHUB>
 cd <TÊN_THƯ_MỤC_REPO>
 Rscript PhantichTripdataNYC.R
-📌 Đảm bảo rằng file dữ liệu taxi được đặt đúng thư mục C:/Du_lieu_lon/yellow_tripdata_2015-01_lam_sach.csv hoặc cập nhật lại đường dẫn trong file PhantichTripdataNYC.R.
+📌 Đảm bảo rằng file dữ liệu taxi được đặt đúng thư mục 
 
 📚 Các thư viện sử dụng
 📦 Thư viện	🔍 Chức năng
